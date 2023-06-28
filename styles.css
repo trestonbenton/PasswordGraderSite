@@ -1,0 +1,46 @@
+body {
+    background-color: #000000;
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  h1 {
+    color: #FFFFFF;
+    font-size: 36px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  }
+  
+  .bubble {
+    background: #202020;
+    border-radius: 50px;
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 20px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  }
+  
+  .password-input {
+    padding: 10px;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+  }
+  
+  .grade-button {
+    background-color: #FFFFFF;
+    color: #000000;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+  }
+  
+  .grade-result {
+    margin-top: 20px;
+    font-size: 24px;
+    color: #FFFFFF;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  }
+  
